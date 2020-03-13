@@ -45,3 +45,12 @@
 ## Editor
 
 - Hex editor
+
+## Mock
+
+- HTTP / Rest mock
+
+## Debugger
+
+- OAuth / OIDC debugger
+
