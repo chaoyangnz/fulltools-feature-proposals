@@ -21,6 +21,10 @@
 
 ## Encryption
 
+- Digest / hashing
+- DSA / RSA
+- OpenSSL
+
 
 ## Formatter / Linter
 - JSON
