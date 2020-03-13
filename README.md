@@ -19,7 +19,7 @@
 - Time zone conversion
 
 
-## Encryption
+## Encryption / cipher
 
 - Digest / hashing
 - DSA / RSA
