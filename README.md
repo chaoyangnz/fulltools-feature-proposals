@@ -5,7 +5,7 @@
 
 - Regex
 - Unicode / UTF-8 / ASCII / Emoji
-- HTML
+- HTML escape
 - base64 base36 base10
 - JWT encode/decode
 - URL encode
